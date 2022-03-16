@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="tab_formation">
+
+        <item>Genie Logiciel </item>
+        <item>DITI</item>
+        <item>MIAGE</item>
+        <item>Resau Telecommunication</item>
+        <item>Cyber Securite</item>
+    </string-array>
+    
+    <string-array name="tab_detail">
+
+        <item>JAVA, PHP ASP.NET ENGLISH, MYSQL,UML,Android. Mobile Dev,DBA</item>
+        <item>JAVA, PHP ASP.NET ENGLISH, MYSQL,UML,Android,CCNA. Mobile Dev,DBA,Administrateur Reseau et Systeme</item>
+        <item>JAVA, PHP ASP.NET ENGLISH, MYSQL,UML,Android,BI.Expert BI,DBA</item>
+        <item>JAVA, PHP, CCNP,GSM. Adminisatrateur Reseaux</item>
+        <item>JAVA, PHP, CCNP, CYber SECURITY. Administrateur Reseau, Expert Securite</item>
+
+    </string-array>
+</resources>

@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">My_school</string>
+    <string name="help_description">Tel: 777453038 mail:madikaba2004@gmail.com. Cette application permet de prsenter ISI, les filieres existantes. Elle donne la possibilte aux etudiants de faire une demande d\'inscriptions, de visualiserleurs notes ainsi que les institut du groupe ISI sur une carte Google Maps..</string>
+    <string name="description">Situé au km1 avenue cheikh Anta Diop, l\'institut supérieur d\'informatique ISI, est sous la tutelle du Ministère de l\'Enseignement Supérieur privé qui est signataire de tous les diplomes délivrés, sous le controle de l\'ANAQ-Sup.
+L\'ISI, contribue depuis plus de 27 ans a la formation des jeunes cadres africains.
+Avec l\'ambition du PDG, de participer a la diversification de l\'offre de formation au Sénégal et dans la sous-région, l\'ISI a su se développer au fil des ans, comptant ainsi en son sein 09 campus, ou se cotoient plus de trente nationalités, qui constituent la belle famille isienne.
+Le groupe dispose des experts de très haut niveau universitaire et spécialistes dans plusieurs domaines de l\'Informatique et de la gestion.
+Grace a son expertise et la qualité de ses services, Le Groupe ISI délivre des diplomes de Licence et Master reconnus a la fois par le monde de l\'entreprise et par les instances d\'accréditation nationales « ANAQ SUP »et panafricaines « CAMES ».
+Avec une offre de formation diversifiée dans les métiers d\'avenir, une innovation permanente de ses programmes, et les brillants résultats obtenus aux différents examens et concours, L\'Institut Supérieur d\'informatique  » ISI » est leader dans son domaine au Sénégal et dans la sous-région.
+    </string>
+    <string name="add_user">Ajouter Utilisateur</string>
+    <string name="update_user">Modifier Utilisateur</string>
+    <string name="delete_user">Supprimer Utilisateur</string>
+    <string name="list_user">Lister Utilisateur</string>
+    <string name="login">Identifiant</string>
+    <string name="password">Mot de Passe</string>
+    <string name="connect">Se Connecter</string>
+    <string name="connection">Connexion</string>
+    <string name="sign_up">S\'inscrire</string>
+    <string name="email">isi@isi.com</string>
+    <string name="presentation">Presentation</string>
+    <string name="formation">Formations</string>
+    <string name="mark">Note</string>
+    <string name="university">Universite</string>
+    <string name="event">Evenements</string>
+    <string name="help">Aide</string>
+    <string name="back">Retour</string>
+    <string name="inscription">Inscription</string>
+    <string name="first_name">Prenom</string>
+    <string name="last_name">NOm</string>
+    <string name="degrees">Diplome</string>
+    <string name="o_level">Niveau</string>
+    <string name="bachelor">Licence</string>
+    <string name="master">Master</string>
+    <string name="save">Enregistrer</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="wait">Patientz SVP</string>
+    <string name="error_field">Champ obligatoire</string>
+    <string name="error_connection">Erreur de Connexion</string>
+    <string name="error_parameters">Parametres Incorrects</string>
+    <string name="success_inscription">Inscription Reussie</string>
+    <string name="error_inscription">Inscription Echoue</string>
+    <string name="error_create">Utilisateur non cree</string>
+    <string name="error_delete">Utilisateur non supprimer</string>
+    <string name="error_list">Utilisateur non afficher</string>
+    <string name="error_update">Utilisateur non mis a jour</string>
+    <string name="success_create">Utilisateur cree</string>
+    <string name="success_update">Utilisateur  mis a jour</string>
+    <string name="success_delete">Utilisateur supprime</string>
+    <string name="success_list">Utilisateur affiche</string>
+</resources>

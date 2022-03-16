@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.my_school.ui.home.HomeFragment"
+        android:label="@string/presentation"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_formation"
+        android:name="com.example.my_school.FormationFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_formation" />
+
+    <fragment
+        android:id="@+id/nav_university"
+        android:name="com.example.my_school.UniversityFragment"
+        android:label="@string/university"
+        tools:layout="@layout/fragment_university" />
+    <fragment
+        android:id="@+id/nav_event"
+        android:name="com.example.my_school.EventsFragment"
+        android:label="@string/event"
+        tools:layout="@layout/fragment_events" />
+    <fragment
+        android:id="@+id/nav_help"
+        android:name="com.example.my_school.HelpFragment"
+        android:label="@string/help"
+        tools:layout="@layout/fragment_help" />
+</navigation>
